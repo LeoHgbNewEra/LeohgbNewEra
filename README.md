@@ -4,9 +4,9 @@
 <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeohgbNewEra&layout=compact&theme=radical" />
 <hr>
 <h3 align="left">Projetos:</h3>
-<a href="https://github.com/LeoHgbNewEra/Desafio-Gerenciador-Tarefas"><h4>Gerenciador de Tarefas</h4></a>
+<h4><a href="https://github.com/LeoHgbNewEra/Desafio-Gerenciador-Tarefas">Gerenciador de Tarefas</a></h4>
 <img width="1440" height="524" alt="image" src="https://github.com/user-attachments/assets/5a87eeef-e6cb-4829-b421-0a8a8bbade7b" />
-<a href="https://github.com/LeoHgbNewEra/Marvel_API-main"><h4>Marvel API</h4></a>
+<h4><a href="https://github.com/LeoHgbNewEra/Marvel_API-main">Marvel API</a></h4>
 <img width="1920" height="960" alt="image" src="https://github.com/user-attachments/assets/47e59120-b2cd-4cf3-b626-87e8515efdfb" />
 <h3 align="left">Linguagens:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,nodejs,mysql,mongodb,typescript,cs,spring,bootstrap"/>
